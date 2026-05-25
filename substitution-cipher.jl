@@ -41,10 +41,8 @@ end
 
 freq = frequency_analysis(ciphertext)
 
-# Create your mapping here (Ciphertext symbol → Plaintext letter)
 mapping = Dict{Char,Char}()
 
-# Example (delete these and add your own guesses):
 
 mapping[' '] = ' '
 mapping['R'] = 'E'
