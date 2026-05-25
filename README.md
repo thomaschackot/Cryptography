@@ -1,2 +1,2 @@
-# RSA
-Implementing RSA encryption, decryption and attack
+# Cryptography
+A collection of foundational cryptography algorithms implemented in Julia.
